@@ -1,1 +1,1 @@
-docum
+documentation related some topics [seminar]
